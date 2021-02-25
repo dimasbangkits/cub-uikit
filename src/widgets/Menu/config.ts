@@ -99,15 +99,15 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/bobadefi/",
       },
-      {
-        label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
-      },
+      // {
+      //   label: "Docs",
+      //   href: "https://goosedefi.gitbook.io/goose-finance/",
+      // },
       {
         label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        href: "https://bobafinance.medium.com/",
       },
     ],
   },
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/bobafinanceio",
       },
       // {
       //   label: "Bahasa Indonesia",
