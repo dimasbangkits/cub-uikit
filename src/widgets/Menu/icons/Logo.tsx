@@ -7,7 +7,7 @@ interface LogoProps extends SvgProps {
 
 const Logo: React.FC<LogoProps> = () => {
   return (
-    <img alt="CubFinance" src="/images/cub/header_logo_wide.png" />
+    <img alt="CubFinance" src="/images/cub/header_logo_wide.svg" />
   );
 };
 
