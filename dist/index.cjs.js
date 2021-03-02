@@ -1871,7 +1871,7 @@ var Icon$O = function (props) {
 };
 
 var Logo = function () {
-    return (React__default['default'].createElement("img", { alt: "CubFinance", src: "/images/cub/header_logo_wide.png" }));
+    return (React__default['default'].createElement("img", { alt: "CubFinance", src: "/images/cub/header_logo_wide.svg" }));
 };
 
 var Icon$P = function (props) {
