@@ -1858,7 +1858,7 @@ var Icon$O = function (props) {
 };
 
 var Logo = function () {
-    return (React.createElement("img", { alt: "CubFinance", src: "/images/cub/header_logo_wide.svg" }));
+    return (React.createElement("img", { alt: "CubFinance", src: "/images/cub/header_logo_wide.svg", style: { width: "auto", height: "30px" } }));
 };
 
 var Icon$P = function (props) {
@@ -1965,9 +1965,7 @@ var StyledLink$1 = styled(Link$1)(templateObject_1$y || (templateObject_1$y = __
 var Logo$1 = function (_a) {
     var isPushed = _a.isPushed, togglePush = _a.togglePush, isDark = _a.isDark, href = _a.href;
     var isAbsoluteUrl = href.startsWith("http");
-    var innerLogo = (React.createElement(React.Fragment, null,
-        React.createElement(Icon$q, { className: "mobile-icon" }),
-        React.createElement(Logo, { className: "desktop-icon", isDark: isDark })));
+    var innerLogo = (React.createElement(Logo, { className: "desktop-icon", isDark: isDark }));
     return (React.createElement(Flex, null,
         React.createElement(MenuButton, { "aria-label": "Toggle menu", onClick: togglePush, mr: "24px" }, isPushed ? (React.createElement(Icon$K, { width: "24px", color: "textSubtle" })) : (React.createElement(Icon$J, { width: "24px", color: "textSubtle" }))),
         isAbsoluteUrl ? (React.createElement(StyledLink$1, { as: "a", href: href, "aria-label": "Pancake home page" }, innerLogo)) : (React.createElement(StyledLink$1, { to: href, "aria-label": "Pancake home page" }, innerLogo))));
