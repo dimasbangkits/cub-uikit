@@ -107,9 +107,9 @@ export const links = [
 
 export const socials = [
   {
-    label: "Telegram",
+    label: "Discord",
     icon: "TelegramIcon",
-    href: "https://t.me/leofinanceio"
+    href: "https://discord.gg/wWJxRE2k9B"
   },
   {
     label: "Twitter",
