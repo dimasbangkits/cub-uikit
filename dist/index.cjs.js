@@ -2088,6 +2088,10 @@ var links = [
                 label: "Blog",
                 href: "https://peakd.com/@leofinance",
             },
+            {
+                label: "Discord",
+                href: "https://discord.gg/wWJxRE2k9B"
+            }
         ],
     },
 ];
@@ -2095,7 +2099,7 @@ var socials = [
     {
         label: "Discord",
         icon: "TelegramIcon",
-        href: "https://discord.gg/wWJxRE2k9B"
+        href: "https://t.me/cubdefi"
     },
     {
         label: "Twitter",
