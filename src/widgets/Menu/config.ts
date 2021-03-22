@@ -29,6 +29,11 @@ export const links = [
     href: "/syrup",
   },
   {
+    label: 'Bridge',
+    icon: 'Bridge',
+    href: 'https://bridge.cubdefi.com/',
+  },
+  {
     label: "Lottery",
     icon: "TicketIcon",
     href: "/lottery",
