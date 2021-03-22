@@ -2017,7 +2017,7 @@ var links = [
     },
     {
         label: 'Bridge',
-        icon: 'Bridge',
+        icon: 'NftIcon',
         href: 'https://bridge.cubdefi.com/',
     },
     {
