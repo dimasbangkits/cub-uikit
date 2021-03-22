@@ -25,7 +25,7 @@ export const lightColors: Colors = {
   tertiary: "#EFF4F5",
   text: "#452A7A",
   textDisabled: "#BDC2C4",
-  textSubtle: "#31b3f7",
+  textSubtle: "#1993fb",
   borderColor: "#E9EAEB",
   card: "#FFFFFF",
   gradients: {
